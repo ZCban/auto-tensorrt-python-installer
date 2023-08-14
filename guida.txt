@@ -1,0 +1,1 @@
+scarica tensorrt dal sito nvidia rinomina la cartella estratta in TensorRT e mettila in una cartiella assieme al codice python,ora riapri la cartella TensorRT apri la cartella python elimina tutti i file tensorrt che non corrispondo alla tua versione python deve rimanerse solo uno all'interno altrimenti potrebbe andare in errore fatto questo avvia il codice e aspetta che finisce
